@@ -1,5 +1,4 @@
-# DSCI 100 Individual Project
-## Women's NCAA March Madness — Final Four Prediction
+# Women's NCAA March Madness — Final Four Prediction
 
 This project analyzes Women's NCAA March Madness data from 1982–2018 to investigate:
 
