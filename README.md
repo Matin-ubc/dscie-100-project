@@ -26,7 +26,3 @@ The analysis suggests that conference and regional wins provide useful informati
 - tidyverse
 - tidymodels
 - ggplot2
-
-### Generative AI Disclosure
-
-Generative AI was used to help debug an error caused by missing values during model training. It helped identify step_impute_mean() as an appropriate way to handle the missing values.
